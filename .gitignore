@@ -1,0 +1,10 @@
+# Ignore images directory
+images/
+
+# Ignore processed images directory
+processed_images/
+
+# Ignore other common files
+*.log
+*.pyc
+__pycache__/
